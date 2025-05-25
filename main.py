@@ -16,3 +16,6 @@ def gestionar_clientes():
         else:
              if opcion == "2":
                  razon = in
+
+
+                 print("HOLA")
